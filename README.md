@@ -191,12 +191,18 @@ Using Pandas and Google Colab, I worked with real-world datasets to:
 - Loaded and explored student records
 - Analysed key attributes and metrics
 - Applied filtering and data selection techniques
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/6dc5efb6-b407-44a7-bf7d-6e8c7f61505a" />
+  <img width="500"  alt="image" src="https://github.com/user-attachments/assets/c2da1eeb-8082-48be-9a6d-68b563804b93" />
+
 
 #### MPG Vehicle Dataset
 - Investigated fuel efficiency data
 - Compared vehicle characteristics
 - Examined manufacturer and model information
 - Generated descriptive statistics
+ <img width="1000"  alt="image" src="https://github.com/user-attachments/assets/9aaef008-247c-4441-9481-fa95043a89db" />
+ <img width="1000" alt="image" src="https://github.com/user-attachments/assets/12612c77-7e00-4bb4-99b4-79fb07bf8cdf" />
+
 
 ### Analysis Included
 
